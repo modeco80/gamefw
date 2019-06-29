@@ -1,6 +1,6 @@
 #
 # GameFW
-# (c) 2019 modeco80 under applicable license.
+# (c) 2019 modeco80 under the MIT License.
 #
 
 file(GLOB_RECURSE GAME_SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/*.cc)

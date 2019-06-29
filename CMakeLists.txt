@@ -1,6 +1,6 @@
 #
 # GameFW
-# (c) 2019 modeco80 under applicable license.
+# (c) 2019 modeco80 under the MIT License.
 #
 
 cmake_minimum_required(VERSION 3.0)
